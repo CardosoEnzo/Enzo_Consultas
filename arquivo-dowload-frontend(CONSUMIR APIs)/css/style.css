@@ -63,3 +63,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+#content {
+    font-size: 10px;
+    padding-bottom: 40vh;
+}
