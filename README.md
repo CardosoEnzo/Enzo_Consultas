@@ -1,0 +1,2 @@
+# Enzo_Consultas
+ O projeto foi feito com base numa requisição de uma seletiva de emprego para a empresa : KSI Consultas. O sistema tem a finalidade de cadastrar, listar e modificar um modelo de cliente. Esse Cliente contém: id, cpf, nome, sobrenome, email, telefone.  Basicamente esse site consome as apis criadas pelo back-end, para fazer uma das funções mencionadas anteriormente. Para fazer o Back-end, foi utilizada a linguagem Java, com o framework Spring Boot, utilizando o padrão de projeto MVC. E o Front-end, foi utilizado o HTML, CSS e o JavaScript. 
